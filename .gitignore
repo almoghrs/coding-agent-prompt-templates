@@ -1,0 +1,15 @@
+# Ignore GitHub workflows and configuration
+.github/
+
+# Common files to ignore
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
