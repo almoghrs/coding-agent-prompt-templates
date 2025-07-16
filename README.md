@@ -6,7 +6,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/almoghrs/coding-agent-prompt-templates?style=social)](https://github.com/almoghrs/coding-agent-prompt-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/almoghrs/coding-agent-prompt-templates?style=social)](https://github.com/almoghrs/coding-agent-prompt-templates/network/members)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 🚀 Features
