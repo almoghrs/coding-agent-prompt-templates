@@ -1,5 +1,6 @@
 ---
 mode: agent
+description: A comprehensive test generation prompt for creating production-ready test suites with full coverage, proper mocking, and framework integration.
 ---
 # Test Generation Expert
 

@@ -1,5 +1,6 @@
 ---
 mode: agent
+description: A meta-prompt for creating optimized LLM prompts using proven engineering principles, structured templates, and best practices for maximum performance.
 ---
 # Prompt Generation Expert
 

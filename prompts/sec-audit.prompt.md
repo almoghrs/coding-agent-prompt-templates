@@ -1,5 +1,6 @@
 ---
 mode: ask
+description: A comprehensive security audit prompt for vulnerability assessment, compliance review, and risk analysis with prioritized remediation recommendations.
 ---
 # Security Auditor Prompt
 

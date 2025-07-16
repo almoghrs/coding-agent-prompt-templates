@@ -1,5 +1,6 @@
 ---
 mode: agent
+description: A comprehensive prompt for generating technical documentation including README files, API docs, user guides, and developer documentation with proper structure and best practices.
 ---
 # Prompt Generation Expert
 

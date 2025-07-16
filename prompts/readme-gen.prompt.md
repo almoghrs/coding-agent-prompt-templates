@@ -1,5 +1,6 @@
 ---
 mode: agent
+description: A specialized prompt for creating beautiful, comprehensive README files with proper structure, visual appeal, and GitHub best practices for open-source projects.
 ---
 # README Generator Prompt
 

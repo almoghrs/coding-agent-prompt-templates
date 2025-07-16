@@ -1,5 +1,6 @@
 ---
 mode: ask
+description: A legal-focused prompt for analyzing software licenses, identifying compliance issues, and assessing legal risks with detailed risk assessments and remediation plans.
 ---
 # License Checker Prompt
 

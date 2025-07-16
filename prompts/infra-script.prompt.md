@@ -1,5 +1,6 @@
 ---
 mode: agent
+description: A specialized prompt for creating Infrastructure as Code (IaC) scripts, Terraform configurations, and Helm charts with security best practices and proper resource management.
 ---
 # Infrastructure Scripter Prompt
 
